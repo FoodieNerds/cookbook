@@ -41,3 +41,5 @@ about 1 pound, shredded cooked chicken
 
 * Be sure to check the label of store-bought sauces to find one that is gluten-free.
 * To make this recipe gluten-free, be sure to check the labels of all ingredients to double-check that they are made gluten-free.
+
+#One-Pot, #Gluten-free, #DutchOven, #Chicken
