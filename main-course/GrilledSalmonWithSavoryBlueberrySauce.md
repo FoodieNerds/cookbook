@@ -1,6 +1,6 @@
 # Grilled Salmon With Savory Blueberry Sauce
 
-![Grilled Salmon With Savory Blueberry Sauce](https://github.com/FoodieNerds/cookbook/blob/master/images/GrilledSalmonWithSavoryBlueberrySauce.jpg "Grilled Salmon With Savory Blueberry Sauce")
+![Grilled Salmon With Savory Blueberry Sauce](https://github.com/FoodieNerds/cookbook/blob/master/main-course/images/GrilledSalmonWithSavoryBlueberrySauce.jpg "Grilled Salmon With Savory Blueberry Sauce")
 
 This recipe was a team effort. My wife found the [blueberry sauce recipe](http://allrecipes.com/recipe/89645/grilled-salmon-steaks-with-savory-blueberry-sauce/) on the Internet and it immediately became **the** way that we make salmon. The salmon marinade is my foggy recollection of the recipe that used to be printed on the side of the [Pike Place Fish](https://www.pikeplacefish.com/) Salmon Basting Sauce. Together, we have come up with a salmon recipe that rivals anything that you might get in a restaurant on the Seattle waterfront, and I am not even kidding. You can even use any leftovers to make a crazy good, salmon scramble the next morning.
 

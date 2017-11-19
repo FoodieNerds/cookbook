@@ -1,6 +1,6 @@
 # Gluten-Free Dutch Oven, Chicken Enchilada Casserole Recipe
 
-![Chicken Enchiladas](https://github.com/FoodieNerds/cookbook/blob/master/images/ChickenEnchiladaCasserole.jpg "Chicken Enchiladas")
+![Chicken Enchiladas](https://github.com/FoodieNerds/cookbook/blob/master/main-course/images/ChickenEnchiladaCasserole.jpg "Chicken Enchiladas")
 
 I found this recipe on givemesomeoven.com and made some modifications so ingredients would come out to even amounts, and so I would know what to buy. For example, the original recipe called for 16 tortillas, but they come in 12 packs. The original recipe also called for three cups of cheese, but they sell cheese by weight, not by how many cups it makes when you shred it, and I had no idea what size of a can of enchilada sauce to buy so I worked that out, too. Also, I wanted to use my 5qt Creuset braiser instead of a casserole dish so I could use the lid instead of aluminum foil to cover it, and also so it would stay warm longer after I took it out of the oven. Anyway, this fed 4 adults, a teen, and a 5-year-old, there were leftovers, and everyone liked it.
 
