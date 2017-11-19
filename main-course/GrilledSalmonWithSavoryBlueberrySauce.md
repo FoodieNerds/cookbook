@@ -48,5 +48,3 @@ This recipe was a team effort. My wife found the [blueberry sauce recipe](http:/
 
 ## Leftovers
 * The next morning make scrambled eggs and throw in the salmon and serve with leftover blueberry sauce
-
-#Salmon, #Fish, #BBQ

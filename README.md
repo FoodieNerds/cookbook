@@ -13,12 +13,11 @@ I am hoping that those of us who can cook will commit some good recipes for our 
 * Clone the repo to your local system.
 * Using Markdown, type up a delicious recipe.
 * Save it in an appropriate directory.
-* Add hashtags for searching.
 * Commit!
 
 ## How to Correct Other People's recipes
 * Use the [pull-request process](https://help.github.com/articles/about-pull-requests/)
-* Add content rather than removing content, e.g. add a note about your preferences rather then just deleting something in the original recipe. 
+* Add content rather than removing content, e.g. add a note about your preferences rather then just deleting something in the original recipe.
 
 ### Handy Tools
 * [GitHub Desktop Clients](https://desktop.github.com/)
