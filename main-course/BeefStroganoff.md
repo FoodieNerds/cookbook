@@ -32,6 +32,6 @@ Reserve 1/3 C of beef consommé, and add the rest of the consommé, the ketchup,
 * Once the cooking starts it goes pretty quickly so it is a good idea to get things chopped in advance.
 * Sirloin is a pretty tough cut of meat so really tenderize the heck out of the steak with a tenderizing mallet. When you cut it into strips, use a sharp knife and make very thin strips. If you don't do these things, then beef will be very tough.
 * At the end, you are supposed to gradually add the flour mixture while stirring, but that would require three hands. Just do your best.
-* Make a vegetable to go with this. In the picture, you see my baked green beans. That is my next recipe.
+* Make a vegetable to go with this. In the picture, you see my [baked green beans](https://github.com/FoodieNerds/cookbook/blob/master/vegetables/GarlicBakedGreenBeans.md). That is my next recipe.
 * My family loves this recipe but the boys pick out the mushrooms.
 * This original recipe was taken from the Pillsbury Complete Cookbook, page 112, but we have modified it.
