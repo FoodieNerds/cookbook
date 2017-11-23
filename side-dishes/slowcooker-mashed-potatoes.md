@@ -1,5 +1,7 @@
 # Crock-Pot Mashed Potatoes
 
+![Slow Cooker Mashed Potatoes](https://github.com/FoodieNerds/cookbook/blob/master/side-dishes/images/SlowCookerMashedPotatoes1.JPG)
+
 ## Ingredients
 * 5 lbs potatoes, peeled and cooked
 * 2 cups milk
