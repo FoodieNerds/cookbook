@@ -18,6 +18,8 @@
 * Pour into slow cooker.
 * Cover - cook on low for no more than 2 hours - watch for burning - add milk if they start to dry out.
 
+![Slow Cooker Mashed Potatoes](https://github.com/FoodieNerds/cookbook/blob/master/side-dishes/images/SlowCookerMashedPotatoes2.JPG)
+
 ## Notes
 * Smaller potatoes taste better than giant ones. Balance that with how many potatoes you want to peel.
 * This recipe is great for Thanksgiving, potlucks, or any time you have to bring a lot of mashed potatoes. This would not be a good choice for a normal, family dinner, unless you have a very large family.
