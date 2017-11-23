@@ -1,5 +1,7 @@
 # Crock-Pot Chicken and Dumplings
 
+![Crock-Pot Chicken and Dumplings](https://github.com/FoodieNerds/cookbook/blob/master/main-course/images/CrockPotChickenAndDumplings.jpg)
+
 My Mom learned to make homemade chicken and dumplings from my great-grandmother who was born to German immigrants in 1888. This is not that recipe. Those dumplings tasted amazing, but I think that they took my Mom hours to make. I have not got that kind of time. This recipe goes together fast and tastes great. Our family of four always has leftovers for lunches, too.
 
 We normally modify or fix recipes because they have some issue, but I make this one just as it is written.  To avoid plagiarizing, I'll just point you to [spendwithpennies.com](http://www.spendwithpennies.com/crock-pot-chicken-and-dumplings/), and I'll just add some notes:
