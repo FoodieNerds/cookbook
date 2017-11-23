@@ -13,7 +13,7 @@
 * 1/2 tsp pepper
 
 ## Preparation
-* Boil the potatoes to cook them. When they are early to break appart with a fork then they are done.
+* Boil the potatoes to cook them. When they are easy to break appart with a fork then they are done.
 * Mash all ingredients together in the large mixer until smooth.
 * Pour into slow cooker.
 * Cover - cook on low for no more than 2 hours - watch for burning - add milk if they start to dry out.
